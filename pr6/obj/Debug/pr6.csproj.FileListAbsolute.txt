@@ -1,0 +1,59 @@
+C:\Users\diman\source\repos\pr6\pr6\obj\Debug\pr6.csproj.AssemblyReference.cache
+C:\Users\diman\source\repos\pr6\pr6\obj\Debug\MainWindow.g.cs
+C:\Users\diman\source\repos\pr6\pr6\obj\Debug\App.g.cs
+C:\Users\diman\source\repos\pr6\pr6\obj\Debug\pr6_MarkupCompile.cache
+C:\Users\diman\source\repos\pr6\pr6\obj\Debug\pr6_MarkupCompile.lref
+C:\Users\diman\source\repos\pr6\pr6\bin\Debug\pr6.exe.config
+C:\Users\diman\source\repos\pr6\pr6\bin\Debug\pr6.exe
+C:\Users\diman\source\repos\pr6\pr6\bin\Debug\pr6.pdb
+C:\Users\diman\source\repos\pr6\pr6\obj\Debug\MainWindow.baml
+C:\Users\diman\source\repos\pr6\pr6\obj\Debug\pr6.g.resources
+C:\Users\diman\source\repos\pr6\pr6\obj\Debug\pr6.Properties.Resources.resources
+C:\Users\diman\source\repos\pr6\pr6\obj\Debug\pr6.csproj.GenerateResource.cache
+C:\Users\diman\source\repos\pr6\pr6\obj\Debug\pr6.csproj.CoreCompileInputs.cache
+C:\Users\diman\source\repos\pr6\pr6\obj\Debug\pr6.exe
+C:\Users\diman\source\repos\pr6\pr6\obj\Debug\pr6.pdb
+D:\Рабочий стол\Code\WPF\pr6\pr6\bin\Debug\pr6.exe.config
+D:\Рабочий стол\Code\WPF\pr6\pr6\bin\Debug\pr6.exe
+D:\Рабочий стол\Code\WPF\pr6\pr6\bin\Debug\pr6.pdb
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\pr6.csproj.AssemblyReference.cache
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\pr6.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\MainWindow.g.cs
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\App.g.cs
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\pr6_MarkupCompile.cache
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\pr6_MarkupCompile.lref
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\MainWindow.baml
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\pr6.g.resources
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\pr6.Properties.Resources.resources
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\pr6.csproj.GenerateResource.cache
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\pr6.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\pr6.exe
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\pr6.pdb
+D:\Рабочий стол\Code\WPF\pr6\pr6\bin\Debug\System.Drawing.Common.dll
+D:\Рабочий стол\Code\WPF\pr6\pr6\bin\Debug\Wpf.Ui.dll
+D:\Рабочий стол\Code\WPF\pr6\pr6\bin\Debug\System.Drawing.Common.xml
+D:\Рабочий стол\Code\WPF\pr6\pr6\bin\Debug\Wpf.Ui.xml
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\App.baml
+D:\Рабочий стол\Code\WPF\pr6\pr6\obj\Debug\pr6.csproj.CopyComplete
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\bin\Debug\pr6.exe.config
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\bin\Debug\pr6.exe
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\bin\Debug\pr6.pdb
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\bin\Debug\System.Drawing.Common.dll
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\bin\Debug\Wpf.Ui.dll
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\bin\Debug\System.Drawing.Common.xml
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\bin\Debug\Wpf.Ui.xml
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\pr6.csproj.AssemblyReference.cache
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\pr6.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\MainWindow.g.cs
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\App.g.cs
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\pr6_MarkupCompile.cache
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\pr6_MarkupCompile.lref
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\App.baml
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\MainWindow.baml
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\pr6.g.resources
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\pr6.Properties.Resources.resources
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\pr6.csproj.GenerateResource.cache
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\pr6.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\pr6.csproj.CopyComplete
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\pr6.exe
+D:\Рабочий стол\Code\WPF\pr6 V1\pr6\obj\Debug\pr6.pdb
